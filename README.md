@@ -12,7 +12,8 @@ El objetivo de este proyecto es proporcionar una herramienta interactiva para an
 - Diseño intuitivo y fácil de navegar para una experiencia de usuario óptima.
 
 ## Capturas de Pantalla
- ![image](![image](https://github.com/BelenGerez/Dashboard_An-lisis_de_Tendencias_de_Producto/assets/108203320/50e88fd8-5fbd-43c8-aee4-55bc2bc43fef)
+ ![image](![Captura de pantalla 2024-03-17 101206](https://github.com/BelenGerez/Dashboard_An-lisis_de_Tendencias_de_Producto/assets/108203320/76e85969-afa5-4778-a932-17445e169c82)
+)
 )
 
 ## Cómo Usar
