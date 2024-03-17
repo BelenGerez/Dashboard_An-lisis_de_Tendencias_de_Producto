@@ -18,7 +18,7 @@ El objetivo de este proyecto es proporcionar una herramienta interactiva para an
 
 ## Cómo Usar
 1. Clona este repositorio a tu máquina local.
-2. Abre el archivo `Proyectos_analisis_de_ventas` en tu POWER BI.
+2. Abre el archivo `Dashboard_Analisis_Tendencias_Productos` en tu POWER BI.
 3. Explora las diferentes visualizaciones y métricas utilizando los filtros interactivos.
 
 
